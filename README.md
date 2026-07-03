@@ -1,24 +1,25 @@
 # Hey, I'm Hengky 👋
 
-Technical Lead & Solution Architect based in Jakarta. Building with Agentic AI & LLM Systems.
+🪄 **Solution Architect** — Designing and building scalable systems on AWS and cloud infrastructure.
 
-## What I'm working on
+🧠 **Deep into AI** — Exploring Agentic AI, LLM orchestration, and generative tools to ship products that learn and adapt.
 
-- 🌱 **Klora** — Visual Identity Engine that learns your style (Go + Next.js + AI)
-- 🤖 **GenAI Studio** — Self-hosted LLM workflow platform (Dify fork)
-- 🛠️ Day-to-day: system design, backend architecture, AI agent orchestration
+🚀 **Builder at heart** — Combining engineering rigor with creativity to solve real-world problems end-to-end.
 
-## Stack
+---
+
+### What I work with
 
 ```
-Backend     Go · Node.js · Python
-Frontend    Next.js · React · TypeScript · Tailwind
-AI/ML       Claude · Dify · LangChain · Prompt Engineering
-Infra       AWS · Docker · PostgreSQL · Valkey · gRPC
-Tools       Claude Code · Neovim · Obsidian
+Backend       Go · Node.js · Python
+Frontend      Next.js · React · TypeScript · Tailwind
+AI            LLM Agents · Prompt Engineering · RAG · Workflow Orchestration
+Infra         AWS · Docker · PostgreSQL · gRPC · Redis
 ```
 
-## Connect
+---
+
+### Connect
 
 [![LinkedIn](https://img.shields.io/badge/-hengkyy-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hengkyy)
 [![Email](https://img.shields.io/badge/-hengliuu@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hengliuu@gmail.com)
